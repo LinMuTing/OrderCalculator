@@ -1,0 +1,5 @@
+c:\users\esb15011\documents\visual studio 2015\Projects\OrderCalculator\OrderCalculator\obj\Debug\OrderCalculator.csprojResolveAssemblyReference.cache
+c:\users\esb15011\documents\visual studio 2015\Projects\OrderCalculator\OrderCalculator\bin\Debug\OrderCalculator.dll
+c:\users\esb15011\documents\visual studio 2015\Projects\OrderCalculator\OrderCalculator\bin\Debug\OrderCalculator.pdb
+c:\users\esb15011\documents\visual studio 2015\Projects\OrderCalculator\OrderCalculator\obj\Debug\OrderCalculator.dll
+c:\users\esb15011\documents\visual studio 2015\Projects\OrderCalculator\OrderCalculator\obj\Debug\OrderCalculator.pdb

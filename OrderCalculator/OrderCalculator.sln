@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderCalculor", "OrderCalculor\OrderCalculor.csproj", "{F4654B40-2110-4F7C-8AF4-7EC3FAFEE9FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderCalculorTests", "OrderCalculorTests\OrderCalculorTests.csproj", "{1360F3EC-CED8-4B82-874C-A85AA48D03A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4654B40-2110-4F7C-8AF4-7EC3FAFEE9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4654B40-2110-4F7C-8AF4-7EC3FAFEE9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4654B40-2110-4F7C-8AF4-7EC3FAFEE9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4654B40-2110-4F7C-8AF4-7EC3FAFEE9FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1360F3EC-CED8-4B82-874C-A85AA48D03A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1360F3EC-CED8-4B82-874C-A85AA48D03A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1360F3EC-CED8-4B82-874C-A85AA48D03A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1360F3EC-CED8-4B82-874C-A85AA48D03A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+c:\users\esb15011\documents\visual studio 2015\Projects\OrderCalculator\OrderCalculorTests\bin\Debug\OrderCalculorTests.dll
+c:\users\esb15011\documents\visual studio 2015\Projects\OrderCalculator\OrderCalculorTests\bin\Debug\OrderCalculorTests.pdb
+c:\users\esb15011\documents\visual studio 2015\Projects\OrderCalculator\OrderCalculorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\esb15011\documents\visual studio 2015\Projects\OrderCalculator\OrderCalculorTests\bin\Debug\OrderCalculor.exe
+c:\users\esb15011\documents\visual studio 2015\Projects\OrderCalculator\OrderCalculorTests\bin\Debug\OrderCalculor.pdb
+c:\users\esb15011\documents\visual studio 2015\Projects\OrderCalculator\OrderCalculorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\esb15011\documents\visual studio 2015\Projects\OrderCalculator\OrderCalculorTests\obj\Debug\OrderCalculorTests.csprojResolveAssemblyReference.cache
+c:\users\esb15011\documents\visual studio 2015\Projects\OrderCalculator\OrderCalculorTests\obj\Debug\OrderCalculorTests.dll
+c:\users\esb15011\documents\visual studio 2015\Projects\OrderCalculator\OrderCalculorTests\obj\Debug\OrderCalculorTests.pdb
